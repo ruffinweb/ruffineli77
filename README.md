@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruffineli77 Im self-studying computer science and career goals align most with a data scienctist.
+- 👋 Hi, I’m @ruffineli77 Im self-studying computer science and my career goals align most with a data scienctist.
 - 👀 I’m most interested in data engineering, and want to work with a team to build and deliver cutting edge products.
 - 🌱 I’m currently learning Python, SQL, APIs, and data analytics.
 - 💞️ # I’m looking to work as a data engineer. 
